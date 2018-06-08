@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "ldbus_api"
- version = "0.8.0-1"
+ version = "0.9.0-1"
 -- LuaDist source
 source = {
-  tag = "0.8.0-1",
+  tag = "0.9.0-1",
   url = "git://github.com/LuaDist-testing/ldbus_api.git"
 }
 -- Original source
 --  source = {
 --     url = "git://github.com/stefano-m/lua-ldbus_api",
---     tag = "v0.8.0"
+--     tag = "v0.9.0"
 --  }
  description = {
     summary = "An high level DBus API on top of ldbus",
